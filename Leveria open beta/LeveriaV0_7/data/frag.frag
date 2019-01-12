@@ -32,6 +32,6 @@ void main(void) {
               1.0 * col6 + 2.0 * col7 + 1.0 * col8) / 16.0;  
   gl_FragColor = vec4(0.0,0.0,0.0,0.0);
   if(sum.r < sum.b-0.005 && sum.g < sum.b-0.005){
-    gl_FragColor = vec4(skyc, 1.0-(skyc.b-sum.b)) * vertColor;  
+    gl_FragColor = vec4(skyc.r + sum.r * 0.2 - 0.1,skyc.g + sum.g * 0.2 - 0.1,skyc.b + sum.b * 0.2 - 0.1, 1.0-(skyc.b-sum.b)) * vertColor;  
   }
 }
