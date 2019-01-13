@@ -5,7 +5,7 @@ precision mediump int;
 #define PROCESSING_TEXTURE_SHADER
 uniform sampler2D texture;
 uniform vec3 skyc;
-vec2 texOffset = vec2(0.003,0.006);
+vec2 texOffset = vec2(0.0015,0.003);
 varying vec4 vertColor;
 varying vec4 vertTexCoord;
 void main(void) {
