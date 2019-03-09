@@ -1,0 +1,23 @@
+Chapter 3 - Balance 
+The WARDEN entered the VOID and faced the OVERLORD...faced the DARKNESS. 
+The LIGHT didn't return what Leveria had lost, but the DARKNESS had been pushed back. 
+Leveria didn't recover over night, but the army of DARKNESS started to retreat to the VOID and the cultists that chose to follow fled. 
+The KINGDOM eventually reformed with new people, new kings...but the story of the mad king that tried to save his people wasn't forgotten. 
+With symmetry and stability restored, the WARDEN OF LEVERIA roams the lands...a stranger to this new world. 
+Thanks for playing Leveria! 
+Credits: 
+Matto - did some coding? 
+Willow - \_(^-^)_/ 
+Samo - scrolls 
+Special Thanks to: 
+Matto - "I love UI!" 
+Willow - "Up...Up!" 
+Samo - STERCES; /  
+Sources: 
+Built with Processing: https://processing.org/ 
+Blockbench: https://blockbench.net/ 
+GIMP: https://www.gimp.org/ 
+PixilArt: https://www.pixilart.com/ 
+Audacity(R): https://www.audacityteam.org/ 
+Paint 3D: https://www.microsoft.com/en-gb/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab 
+NatureSoundsForMe: http://naturesoundsfor.me/load/attribution  
